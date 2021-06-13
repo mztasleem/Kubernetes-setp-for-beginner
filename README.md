@@ -1,4 +1,4 @@
-# Kubernetes-setp-for-beginner
+# Kubernetes-setup-for-beginner
 This repository help to learn students all activities required to setup first kubernetes. Starting from creating master-child nodes till deploying/running applications.
 
 
